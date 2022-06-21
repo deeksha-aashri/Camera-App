@@ -16,6 +16,11 @@ body{
     
     justify-content: center;
  }
+ h1{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 5rem;
+ }
  .gallery-cont{
     min-height: 100vh;
    width:100vw;
