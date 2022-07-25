@@ -1,3 +1,4 @@
+Kindly click on the active pages under Environment tab to view the app running.
 Camera App called "DeeCam"
 
 What does it do?
